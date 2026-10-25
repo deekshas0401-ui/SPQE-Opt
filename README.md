@@ -15,7 +15,7 @@ An ESP32-based controller that combines MPPT solar charging with active power fa
 ## Setup
 1. Clone the repo: `git clone https://github.com/deekshas0401-ui/SPQE-Opt.git`
 2. Open `src/` in Arduino IDE or PlatformIO
-3. Install the required libraries: [list them]
+3. Install the required libraries: Install the ESP32 board package in Arduino IDE (Boards Manager: "esp32 by Espressif Systems")
 4. Set the pin mapping and calibration values in `config.h`
 5. Upload to the ESP32
 
